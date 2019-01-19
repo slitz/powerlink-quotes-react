@@ -22,6 +22,16 @@
   color: #61dafb;
 }
 
+.App-title {
+  font-size:32px;
+  font-weight:500;
+  letter-spacing:3px;
+  text-align:center;
+  color: #337ab7;
+  font-family:'Open Sans', arial, sans-serif;
+  display:block
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
